@@ -7,7 +7,7 @@ What makes this project stand out is its simplicity, efficiency, and speed. With
 This showcases how accessible NLP techniques like Word2Vec can be for small-scale, real-world tasks.
 
 ## Interactive viewing
-One can easily explore the results accessing this link, without the need for setting up a jupyter environment.
+One can easily explore the results accessing this [link](https://colab.research.google.com/drive/1VTdnSWKcgKcSwIDc98kLBe8ydfcIfIAF?usp=sharing), without the need for setting up a jupyter environment.
 
 ## How to set up with jupyter
 1. Clone this repository:
